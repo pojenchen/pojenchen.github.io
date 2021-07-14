@@ -2,12 +2,15 @@
 main:
   - title: "Biography"
     url: /biography/
-    
+
   - title: "Publications"
     url: /publications/
 
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Video"
+    url: /video/
 
   # - title: "Talks"
   #   url: /talks/    
