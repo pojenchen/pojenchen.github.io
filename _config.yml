@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Po-Jen Chen"
-  avatar           : "files/profile.jpeg"
+  avatar           : "profile.jpeg"
   bio              : "M.S. student in NTU, Taiwan"
   location         : "NTU, Taiwan"
   employer         :
