@@ -88,8 +88,9 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "r08943023 AT ntu DOT edu DOT tw"
-  cv               : "https://pojenchen.github.io/files/CV_20210430.pdf"
+  #cv               : "https://pojenchen.github.io/files/CV_20210430.pdf"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  linkedin         :
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +104,6 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
