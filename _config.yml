@@ -89,7 +89,6 @@ author:
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "r08943023 AT ntu DOT edu DOT tw"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  linkedin         : "pojenchen1123" #www.linkedin.com/in/pojenchen1123
   cv               : "https://pojenchen.github.io/files/CV_20210430.pdf"
   uri              :
   bitbucket        :
@@ -99,6 +98,7 @@ author:
   facebook         :
   foursquare       :
   github           : "pojenchen"
+  linkedin         : "pojenchen1123" #www.linkedin.com/in/pojenchen1123
   google_plus      :
   keybase          :
   instagram        :
