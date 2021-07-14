@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Po-Jen Chen"
-  avatar           : "profile.jpeg"
-  bio              : "M.S. student in NTU, Taiwan"
-  location         : "NTU, Taiwan"
+  avatar           : "profile.png"
+  bio              : "M.S. student in National Taiwan University"
+  location         : #"NTU, Taiwan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
