@@ -12,6 +12,9 @@ main:
   - title: "Video"
     url: /video/
 
+  - title: "Honors"
+    url: /honors/
+
   # - title: "Talks"
   #   url: /talks/    
 
