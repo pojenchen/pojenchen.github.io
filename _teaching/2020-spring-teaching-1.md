@@ -8,8 +8,6 @@ date: 2020-03-01
 location: "Taipei, Taiwan"
 ---
 
-TA's job description:
-
 Designed fair, yet challenging, homework problems that deepen students’ understanding of the subjects.
 
 

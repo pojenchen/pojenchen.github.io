@@ -7,15 +7,12 @@ main:
     url: /publications/
 
   - title: "Teaching"
-    url: /teaching/    
-
-  - title: "Video"
-    url: /video/
+    url: /teaching/
 
   - title: "Honors"
     url: /honors/
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Video"
+    url: /video/
 
 
