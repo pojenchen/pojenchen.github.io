@@ -1,24 +1,22 @@
 ---
-title: "Teaching Assistant Computer Architecture"
+title: "Teaching Assistant -- Computer Architecture"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-spring-teaching-1
 venue: "National Taiwan University"
-date: 2020-10-01
+date: 2020-03-01
 location: "Taipei, Taiwan"
 ---
 
-TA's description:
+TA's job description:
 
-Heading 1
+Designed fair, yet challenging, homework problems that deepen students’ understanding of the subjects.
 ======
-test, test
-### Big
-a
-======
+
 
 Heading 2
 ======
+Held office hours and grading.
 
 Heading 3
 ======
