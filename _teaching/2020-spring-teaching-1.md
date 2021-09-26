@@ -9,11 +9,4 @@ location: "Taipei, Taiwan"
 ---
 
 Designed fair, yet challenging, homework problems that deepen students’ understanding of the subjects.
-
-
-Heading 2
-
 Held office hours and grading.
-
-Heading 3
-======
