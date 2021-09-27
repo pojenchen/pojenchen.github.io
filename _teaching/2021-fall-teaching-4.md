@@ -8,13 +8,4 @@ date: 2021-10-01
 location: "Taipei, Taiwan"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+In progress...
