@@ -12,7 +12,7 @@ main:
   - title: "Honors"
     url: /honors/
 
-  - title: "Video"
-    url: /video/
+  # - title: "Video"
+  #   url: /video/
 
 

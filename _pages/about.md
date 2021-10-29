@@ -15,7 +15,7 @@ and I'm also a research assistant of [Tung Chou](https://tungchou.github.io/) in
 Currently, I'm finalising my master thesis while pursuing a PhD degree in Security and Crypto.
 
 I obtained my bachelor’s degree in Electrical Engineering at National Taiwan University.
-During the undergraduate, I worked with [Tsung-Te Liu](http://www.ee.ntu.edu.tw/profile2.php?id=1020909) on the elliptic curve cryptographic processor. 
+During the undergraduate, I worked with [Tsung-Te Liu](http://www.ee.ntu.edu.tw/profile2.php?id=1020909) on the elliptic curve cryptographic processor. The result is presented in TCAS-II, 2020.
 
 My research goal is to provide flexible and cost-efficient solutions from the viewpoint of architecture.
 Recently I have worked on implementing the public-key generator for [post-quantum cryptography](https://csrc.nist.gov/projects/post-quantum-cryptography/round-3-submissions), that is, cryptosystems deployed in classical computers conjectured to be secure against attacks from large-scale quantum computers.
