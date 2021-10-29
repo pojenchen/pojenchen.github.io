@@ -1,4 +1,11 @@
 ---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+---
 title: "An Energy-Efficient Dual-Field Elliptic Curve Cryptography Processor for Internet of Things Applications"
 collection: publications
 permalink: /publication/ECC
@@ -6,7 +13,7 @@ excerpt: ''
 date: 2020-07-28
 venue: 'Conference'
 paperurl: 'https://github.com/pojenchen/pojenchen.github.io/blob/master/files/ECC.pdf'
-citation: 'L. -Y. Yeh, P. -J. Chen, C. -C. Pai and T. -T. Liu, "An Energy-Efficient Dual-Field Elliptic Curve Cryptography Processor for Internet of Things Applications," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 67, no. 9, pp. 1614-1618, Sept. 2020, doi: 10.1109/TCSII.2020.3012448.'
+citation: '[[*plain text*]](), [[*bib*]]()'
 ---
 
 
