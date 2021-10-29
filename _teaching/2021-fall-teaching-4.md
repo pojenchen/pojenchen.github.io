@@ -8,6 +8,5 @@ date: 2021-10-01
 location: "Taipei, Taiwan"
 ---
 
-Helped the professor deal with classroom affairs, such as setup of distance learning.
-
+Helped the professor deal with classroom affairs, such as setup of distance learning.\ 
 Reviewed and commented students’ feedback for each class.

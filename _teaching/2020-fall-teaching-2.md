@@ -9,5 +9,4 @@ location: "Taipei, Taiwan"
 ---
 
 Helped students develop critical thinking skills through discussions and writing practices.\ 
-
 ### Won NTU Excellent Teaching Assistants.
