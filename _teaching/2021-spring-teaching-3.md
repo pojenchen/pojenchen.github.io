@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant -- Post-Quantum Cryptography"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2021-spring-teaching-3
 venue: "National Taiwan University"
 date: 2021-03-01
