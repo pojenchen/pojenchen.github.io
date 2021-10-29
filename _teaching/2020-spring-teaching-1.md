@@ -8,5 +8,5 @@ date: 2020-03-01
 location: "Taipei, Taiwan"
 ---
 
-Designed fair, yet challenging, homework problems that deepen students’ understanding of the subjects.\ 
+Designed fair, yet challenging, homework problems that deepen students’ understanding of the subjects.  
 Held office hours and grading.
