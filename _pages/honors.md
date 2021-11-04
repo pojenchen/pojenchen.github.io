@@ -5,7 +5,10 @@ permalink: /honors/
 author_profile: true
 ---
 
-## Conference Papers
-L. -Y. Yeh, **P. -J. Chen**, C. -C. Pai and T. -T. Liu, "An Energy-Efficient Dual-Field Elliptic Curve Cryptography Processor for Internet of Things Applications," in IEEE Transactions on Circuits and Systems II: Express Briefs, vol. 67, no. 9, pp. 1614-1618, Sept. 2020, doi: 10.1109/TCSII.2020.3012448.  
-[[*bib*]](https://pojenchen.github.io/bibs/ECC.bib) [[*pdf*]](https://pojenchen.github.io/files/ECC.pdf) [[video]](https://youtu.be/-xy94LTkNm0)
+## Honors
+- **Excellent Teaching Assistants** at NTU, 2021
+- **Certificate of design completion and Finalist**, Integrated Circuit Design Contest (Cell‑based, Graduate Level), 2021
+- **Finalist**, Integrated Circuit Design Contest (Cell‑based, Graduate Level), 2020
+- **Finalist**, Integrated Circuit Design Contest (Cell‑based, Undergraduate Level), 2019
+- **Funding**, Ministry of Science and Technology Project for Undergraduate Students, 2018-2019
 ---
