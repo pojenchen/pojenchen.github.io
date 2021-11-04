@@ -5,7 +5,6 @@ permalink: /honors/
 author_profile: true
 ---
 
-## Honors  
 - **Excellent Teaching Assistants** at NTU, 2021  
 - **Certificate of design completion and Finalist**, Integrated Circuit Design Contest (Cell‑based, Graduate Level), 2021  
 - **Finalist**, Integrated Circuit Design Contest (Cell‑based, Graduate Level), 2020  
