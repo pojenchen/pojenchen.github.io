@@ -9,10 +9,12 @@ author_profile: true
 Course Final Project of *Computer-Aided Vlsi System Design*  
 - Adopted down sampling for image pixels, shrunk search range within matching blocks, and early skipping for min-max error.  
 - Scheduled truncated pixels of separated images into one SRAM and parallelized the computation with 4 process elements.  
+- [[*pdf*]](https://pojenchen.github.io/files/memc.pdf)  
 
 ### Miller's Algorithm in Pairing-Based Cryptography  
 Course Final Project of *Cryptography*  
 - Surveyed algorithmic improvements to decrease the complexity of Miller's algorithm.  
+- [[*pdf*]](https://pojenchen.github.io/files/pairing.pdf)  
 
 ### Baby-Step Giant-Step Attack on Diffie-Hellman Key Exchange Protocol  
 Course Final Project of *Integrated Circuits Design Laboratory*  
