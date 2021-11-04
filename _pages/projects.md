@@ -26,13 +26,13 @@ Summer Training in [Energy-Efficient Circuits and Systems Lab](https://sites.goo
 - Exploited radix-$2^2$ 16-point FFT to reduce the multiplicative complexity.  
 - Searched the main frequency with *folding* architect to share datapath logic.  
 
+### Parallelism Factor of 2D Convolution Circuit in 28-nm CMOS Technology  
+Course Final Project of *Digital Signal Processing in Vlsi Design*  
+- to be done.
+
 ### 5-Stage Pipelined MIPS  
 Course Final Project of *Digital System Design*  
 - Extended pipelined multiplication/division to shorten critical path and carried Booth's algorithm to facilitate recursive computation.  
 - Exploited the advantage of locality through multi-levels of caches with different read/write policies.  
-
-### Parallelism Factor of 2D Convolution Circuit in 28-nm CMOS Technology  
-Course Final Project of *Digital Signal Processing in Vlsi Design*  
-- to be done.
 
 ---
