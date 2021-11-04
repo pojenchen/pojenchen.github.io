@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Honors"
-permalink: /honors/
+title: "Projects"
+permalink: /projects/
 author_profile: true
 ---
 
@@ -11,5 +11,4 @@ author_profile: true
 - **Finalist**, Integrated Circuit Design Contest (Cell‑based, Graduate Level), 2020
 - **Finalist**, Integrated Circuit Design Contest (Cell‑based, Undergraduate Level), 2019
 - **Funding**, Ministry of Science and Technology Project for Undergraduate Students, 2018-2019
-
 ---
