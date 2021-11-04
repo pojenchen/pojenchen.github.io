@@ -29,6 +29,7 @@ Summer Training in [*Energy-Efficient Circuits and Systems Lab*](https://sites.g
 ### Parallelism Factor of 2D Convolution Circuit in 28-nm CMOS Technology  
 Course Final Project of *Digital Signal Processing in Vlsi Design*  
 - to be done.  
+- [[*pdf*]](https://pojenchen.github.io/files/conv.pdf)  
 
 ### 5-Stage Pipelined MIPS  
 Course Final Project of *Digital System Design*  
