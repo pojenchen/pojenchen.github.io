@@ -21,14 +21,14 @@ Course Final Project of *Integrated Circuits Design Laboratory*
 - **Fabricated in 180-nm CMOS technology and validated with measurement results**  
 
 ### Frequency Analysis System  
-Summer Training in [Energy-Efficient Circuits and Systems Lab](https://sites.google.com/eecs.ee.ntu.edu.tw/eecslab)  
+Summer Training in [*Energy-Efficient Circuits and Systems Lab*](https://sites.google.com/eecs.ee.ntu.edu.tw/eecslab)  
 - Employed *transposed* finite impulse response filter to shorten the critical path and reduce the number of adders.  
 - Exploited radix-$2^2$ 16-point FFT to reduce the multiplicative complexity.  
 - Searched the main frequency with *folding* architect to share datapath logic.  
 
 ### Parallelism Factor of 2D Convolution Circuit in 28-nm CMOS Technology  
 Course Final Project of *Digital Signal Processing in Vlsi Design*  
-- to be done.
+- to be done.  
 
 ### 5-Stage Pipelined MIPS  
 Course Final Project of *Digital System Design*  
