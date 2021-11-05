@@ -15,4 +15,7 @@ main:
   - title: "Projects"
     url: /projects/
 
+  - title: "Extracurricular"
+    rul: /extra/
+
 
