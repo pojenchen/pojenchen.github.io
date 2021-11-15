@@ -20,6 +20,12 @@ Electrical Engineering Dept. at NTU
 <img src='/images/badminton.jpg' width='600' > <br/>  
 
 
+### Volunteer in Sunflower Club  
+- Accompanied kids in 野柳國小 in summer 2017.  
+
+<img src='/images/sunflower.JPG' width='600' > <br/>  
+
+
 ### [Band Director of EE's Week -- pokeeman](https://www.facebook.com/2016eeweek/)  
 Electrical Engineering Dept. at NTU  
 - Provided guidance for band performance.  
@@ -31,12 +37,7 @@ Electrical Engineering Dept. at NTU
 <img src='/images/band.jpg' width='600' > <br/>  
 
 
-### [Worker in EE's Camp](https://youtu.be/jqeYb44m8H0)  
+### Worker in EE's Camp  
 Electrical Engineering Dept. at NTU  
 - Assisted and taught coding skills on Arduino to high school students.  
-
-
-### Volunteer in Sunflower Club  
-- Accompanied kids in 野柳國小 in summer 2017.  
-
-<img src='/images/sunflower.JPG' width='600' > <br/>  
+- Lead singer of [campfire song](https://youtu.be/jqeYb44m8H0).  
