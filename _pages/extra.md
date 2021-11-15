@@ -8,7 +8,7 @@ author_profile: true
 ### Instructor of ICS Summer Camp  
 - Introduced 'Integrate Circuits & Systems' to undergraduate students.  
 
-<img align='center' src='/images/camp.jpg' width='600' > <br/>  
+<img src='/images/camp.jpg' width='600' > <br/>  
 
 
 ### Badminton Team Leader  
@@ -20,11 +20,23 @@ Electrical Engineering Dept. at NTU
 <img src='/images/badminton.jpg' width='600' > <br/>  
 
 
+### [Band Director of EE's Week -- pokeeman](https://www.facebook.com/2016eeweek/)  
+Electrical Engineering Dept. at NTU  
+- Provided guidance for band performance.  
+
+
+### Band Performance in EE's Festival  
+Electrical Engineering Dept. at NTU  
+
+<img src='/images/band.jpg' width='600' > <br/>  
+
+
+### [Worker in EE's Camp](https://youtu.be/jqeYb44m8H0)  
+Electrical Engineering Dept. at NTU  
+- Assisted and taught coding skills on Arduino to high school students.  
+
+
 ### Volunteer in Sunflower Club  
 - Accompanied kids in 野柳國小 in summer 2017.  
 
 <img src='/images/sunflower.JPG' width='600' > <br/>  
-
-
-### [Band Director of EE's Week -- pokeeman](https://www.facebook.com/2016eeweek/)  
-Electrical Engineering Dept. at NTU  
