@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-### Motion Estimation/Compensation (MEMC)  
+### [Motion Estimation/Compensation (MEMC)](https://pojenchen.github.io/files/memc.pdf)  
 Course Final Project of *Computer-Aided Vlsi System Design*  
 - Adopted down sampling for image pixels, shrunk search range within matching blocks, and early skipping for min-max error.  
 - Scheduled truncated pixels of separated images into one SRAM and parallelized the computation with 4 process elements.  
