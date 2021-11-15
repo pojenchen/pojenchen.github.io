@@ -16,7 +16,7 @@ Electrical Engineering Dept. at NTU
 
 
 ### Volunteer in Sunflower Club  
-<img src='/images/sunflower.jpg' width='300' > <br/>
+<img src='/images/sunflower.JPG' width='300' > <br/>
 
 ### Band Director of EE's Week <pokeeman>  
 Electrical Engineering Dept. at NTU  
