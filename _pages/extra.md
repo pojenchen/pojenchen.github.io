@@ -42,12 +42,4 @@ Electrical Engineering Dept. at NTU
 - Assisted and taught coding skills on Arduino to high school students.  
 - Lead singer of [campfire song](https://youtu.be/jqeYb44m8H0).  
 
-<iframe
-    width="640"
-    height="480"
-    src="https://youtu.be/jqeYb44m8H0"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
+<iframe width="699" height="393" src="https://www.youtube.com/embed/jqeYb44m8H0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
