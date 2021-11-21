@@ -35,4 +35,8 @@ Course Final Project of *Digital System Design*
 - Extended pipelined multiplication/division to shorten critical path and carried Booth's algorithm to facilitate recursive computation.  
 - Exploited the advantage of locality through multi-levels of caches with different read/write policies.  
 
+### [Voltage Follower](https://pojenchen.github.io/files/follower.pdf)  
+- Adjusted the MOS parameters in a 2-stage operational amplifier to realize the specified behavior.  
+- Simulated the design in 180-nm technology.  
+
 ---
