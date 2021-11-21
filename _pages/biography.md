@@ -7,5 +7,5 @@ author_profile: true
 
 {% include base_path %}
 
-Po-Jen Chen received the B.S. degree in Electrical Engineering from National Taiwan University in 2019.
-Also, he just finished the master's thesis defense on Sep. 24, 2021.
+I obtained my bachelor’s degree in Electrical Engineering at National Taiwan University.
+During the undergraduate, I worked with [Tsung-Te Liu](http://www.ee.ntu.edu.tw/profile2.php?id=1020909) on the elliptic curve cryptographic processor. The result is presented in TCAS-II, 2020.
