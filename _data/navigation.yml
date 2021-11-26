@@ -2,20 +2,20 @@
 main:
   - title: "Biography"
     url: /biography/
-  children:
-    - title: "Publications"
-      url: /publications/
-    children:
-      - title: "Teaching"
-        url: /teachings/
-      children:
-        - title: "Honors"
-          url: /honors/
-        children:
-          - title: "Projects"
-            url: /projects/
-          children:
-            - title: "Extracurricular"
-              url: /extra/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Teaching"
+    url: /teachings/
+
+  - title: "Honors"
+    url: /honors/
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Extracurricular"
+    url: /extra/
 
 
