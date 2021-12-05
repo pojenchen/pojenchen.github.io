@@ -16,7 +16,7 @@ Course Final Project of *Cryptography*
 
 ### Baby-Step Giant-Step Attack on Diffie-Hellman Key Exchange Protocol  
 Course Final Project of *Integrated Circuits Design Laboratory*  
-- Organized the architect and instructed team members to accomplish encryption/decryption (DES) and key-exchange protocol (DHKE).  
+- Organized the architecture and instructed team members to accomplish encryption/decryption (DES) and key-exchange protocol (DHKE).  
 - Implemented Montgomery multiplication/division for arithmetic computation over Galois field.  
 - **Fabricated in 180-nm CMOS technology and validated with measurement results**  
 

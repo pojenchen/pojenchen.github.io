@@ -13,7 +13,7 @@ author_profile: true
 
 ### Badminton Team Leader  
 Electrical Engineering Dept. at NTU  
-- Shared my passion to team members and built a heartwarming badminton community.  
+- Shared my passion to team members and built a welcoming badminton community.  
 - Held a badminton contest for College of Electrical Engineering and Computer Science at NTU, and organized over 5 nationwide or school‑widegames.  
 - Provided technical guidance in every game and led our team to win 4 trophies.  
 
