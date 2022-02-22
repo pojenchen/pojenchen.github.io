@@ -10,6 +10,6 @@ author_profile: true
 
 
 ## Preprint  
-1. **Po-Jen Chen**, Tung Chou, Sanjay Deshpande, Norman Lahr, Ruben Niederhagen, Jakub Szefer and Wen Wang, "Long Paper: Complete and Improved FPGA Implementation of Classic McEliece," in *CHES*, 2022 (targeting Volume 2022, Issue 3).  
+1. **Po-Jen Chen**, Tung Chou, Sanjay Deshpande, Norman Lahr, Ruben Niederhagen, Jakub Szefer and Wen Wang, "Long Paper: Complete and Improved FPGA Implementation of Classic McEliece," in *CHES*, 2022 (submitted).  
 
 ---
