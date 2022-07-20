@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Po-Jen Chen"
 title_separator          : "-"
 name                     : &name "Po-Jen Chen"
-description              : &description "M.S. student in NTU, Taiwan"
+description              : &description "M.S. Student at NTU, Taiwan"
 url                      : https://pojenchen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pojenchen.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Po-Jen Chen"
   avatar           : "profile2.jpg"
-  bio              : "M.S. student at National Taiwan University"
+  bio              : "M.S. Student at NTU"
   location         : #"NTU, Taiwan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
