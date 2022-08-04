@@ -197,9 +197,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  extra:
-    output: true
-    permalink: /:collection/:path/
+  # extra:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults
