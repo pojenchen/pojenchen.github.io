@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Po-Jen Chen"
 title_separator          : "-"
 name                     : &name "Po-Jen Chen"
-description              : &description "M.S. Student at NTU, Taiwan"
+description              : &description "Degital Design Synopsoids"
 url                      : https://pojenchen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pojenchen.github.io"
@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Po-Jen Chen"
   avatar           : "profile2.jpg"
-  bio              : "M.S. Student at NTU"
+  bio              : "Degital Design Synopsoids"
   location         : #"NTU, Taiwan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.tw/citations?hl=zh-TW&authuser=4&user=tcC8CmEAAAAJ"
   email            : "mooseedsheeran AT gmail DOT com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  cv               : "https://pojenchen.github.io/files/CV_pjchen.pdf"
+  researchgate     : #"https://www.researchgate.net/profile/yourprofile"
+  cv               : #"https://pojenchen.github.io/files/CV_pjchen.pdf"
   uri              :
   bitbucket        :
   codepen          :
